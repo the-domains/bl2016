@@ -1,7 +1,7 @@
 name: BL2016
 favicon: null
-layout_spectrum: 0.50904
-typography_spectrum: 0.9954960546456277
+layout_spectrum: 0
+typography_spectrum: 0.49689
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.5625898204743862
+  brandStrength: 0.375
   lightness: 0.23418499319814146
-  saturation: 0.26653972710482776
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
